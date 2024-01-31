@@ -1,0 +1,48 @@
+omar@omar-VirtualBox:~$ ls
+
+ Desktop     Downloads   Music   new1         omar2      Public  'ST file Training'   Task2.exe   Videos
+
+ Documents   man1        new     new_folder   Pictures   snap     Task2.c             Templates
+
+omar@omar-VirtualBox:~$ ./Task2.exe
+
+Sama 3likooooo >ooo
+
+ooo
+
+ 
+
+Sama 3likooooo >iii
+
+iii
+
+ 
+
+Sama 3likooooo >kkk
+
+kkk
+
+ 
+
+Sama 3likooooo >kk
+
+kk
+
+ 
+
+Sama 3likooooo >omar mohmmmed
+
+omar mohmmmed
+
+ 
+
+Sama 3likooooo >exi
+
+exi
+
+ 
+
+Sama 3likooooo >exit
+
+Etla3 Bara 
+
