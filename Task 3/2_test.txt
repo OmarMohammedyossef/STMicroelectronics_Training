@@ -1,0 +1,10 @@
+omar@omar-VirtualBox:~/Task3$ vim 2.c
+omar@omar-VirtualBox:~/Task3$ indent 2.c
+omar@omar-VirtualBox:~/Task3$ gcc 2.c -o 2.exe
+omar@omar-VirtualBox:~/Task3$ ./2.exe omar moahhed
+omar moahhed
+omar@omar-VirtualBox:~/Task3$ ./2.exe omar 
+omar
+omar@omar-VirtualBox:~/Task3$ ./2.exe
+
+

@@ -1,0 +1,17 @@
+omar@omar-VirtualBox:~/Task3$ vim 3.c
+omar@omar-VirtualBox:~/Task3$ indent 3.c
+omar@omar-VirtualBox:~/Task3$ gcc 3.c -o 3.exe
+omar@omar-VirtualBox:~/Task3$ vim F_test1
+omar@omar-VirtualBox:~/Task3$ gcc 3.c -o 3.exe
+omar@omar-VirtualBox:~/Task3$ ./3.exe F_test1 F_test2
+The source file opened with fd = 3
+The destination file opened with fd = 4
+I read 100 bytes
+I wrote 100 bytes
+I read 37 bytes
+I wrote 37 bytes
+omar@omar-VirtualBox:~/Task3$ vim F_test1
+omar@omar-VirtualBox:~/Task3$ vim F_test2
+omar@omar-VirtualBox:~/Task3$ vim 3.c
+omar@omar-VirtualBox:~/Task3$ 
+

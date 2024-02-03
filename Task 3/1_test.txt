@@ -1,0 +1,7 @@
+omar@omar-VirtualBox:~/Task3$ vim 1.c
+omar@omar-VirtualBox:~/Task3$ gcc 1.c -o 1.exe
+omar@omar-VirtualBox:~/Task3$ indent 1.c
+omar@omar-VirtualBox:~/Task3$ gcc 1.c -o 1.exe
+omar@omar-VirtualBox:~/Task3$ ./1.exe
+/home/omar/Task3
+
