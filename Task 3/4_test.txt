@@ -1,0 +1,18 @@
+omar@omar-VirtualBox:~/Task3$ vim 4.c
+omar@omar-VirtualBox:~/Task3$ indent -bli0 4.c
+omar@omar-VirtualBox:~/Task3$ gcc 4.c -o 4.exe
+omar@omar-VirtualBox:~/Task3$ ./4.exe
+Enter the required  command >>>>>>>echo Omar moahmmed
+Omar moahmmed
+Enter the required  command >>>>>>>echo           Omar Mohammed  
+Omar Mohammed  
+Enter the required  command >>>>>>>pwd
+/home/omar/Task3
+Enter the required  command >>>>>>>cd /home
+directory changed
+Enter the required  command >>>>>>>pwd
+/home
+Enter the required  command >>>>>>>exit
+Etla3 Bara 
+omar@omar-VirtualBox:~/Task3$ 
+
