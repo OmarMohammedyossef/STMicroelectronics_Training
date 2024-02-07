@@ -1,0 +1,24 @@
+omar@omar-VirtualBox:~/Task4$ indent -bli0 1.c
+omar@omar-VirtualBox:~/Task4$ vim 1.c
+omar@omar-VirtualBox:~/Task4$ gcc 1.c -o 1.exe
+omar@omar-VirtualBox:~/Task4$ ./1.exe
+Enter the required  command >>>>>>> echo  dkjd
+dkjd 
+Enter the required  command >>>>>>>ech omasamsmamd        dkadkladl
+Please Enter a valid COmmand
+external command
+Enter the required  command >>>>>>>ls
+1.c  1.c~  1.exe  1.z~	2.c
+external command
+Enter the required  command >>>>>>>pwd
+/home/omar/Task4
+Enter the required  command >>>>>>>cd /home
+directory changed
+Enter the required  command >>>>>>>pwd
+/home
+Enter the required  command >>>>>>>exit
+Etla3 Bara 
+omar@omar-VirtualBox:~/Task4$ indent -bli0 1.c
+Enter the required  command >>>>>>>
+
+
