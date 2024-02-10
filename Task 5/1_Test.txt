@@ -1,0 +1,36 @@
+omar@omar-VirtualBox:~/Task4$ vim 1.c
+omar@omar-VirtualBox:~/Task4$ indent -bli0 1.c
+omar@omar-VirtualBox:~/Task4$ gcc 1.c -o 1.exe
+omar@omar-VirtualBox:~/Task4$ ./1.exe
+Enter the required  command >>>>>>>      pwd 
+/home/omar/Task4
+Enter the required  command >>>>>>>cd /.
+directory changed
+Enter the required  command >>>>>>>pwd 
+/
+Enter the required  command >>>>>>>cd /home
+directory changed
+Enter the required  command >>>>>>> ls
+omar
+external command
+Enter the required  command >>>>>>>cd /home/omar/Task4
+directory changed
+Enter the required  command >>>>>>>pwd
+/home/omar/Task4
+Enter the required  command >>>>>>>ls
+1.c  1.c~  1.exe  1_test.txt  1.z~  2.c  4.c
+external command
+Enter the required  command >>>>>>>echo omar
+omar 
+Enter the required  command >>>>>>>  echo  omar Mohammed
+omar Mohammed 
+Enter the required  command >>>>>>>lpp
+Please Enter a valid COmmand
+Enter the required  command >>>>>>>,,
+Please Enter a valid COmmand
+Enter the required  command >>>>>>>pwd
+/home/omar/Task4
+Enter the required  command >>>>>>>exit
+Etla3 Bara 
+
+
